@@ -1,4 +1,4 @@
-### Core
+### EntityGenerator
 - will generate the Jar Based on a config file for the Entity
 
 ### CRUD
