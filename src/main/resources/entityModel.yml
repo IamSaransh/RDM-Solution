@@ -1,0 +1,22 @@
+- name: id
+  type: java.lang.String
+  nested: false
+- name: name
+  type: java.lang.String
+  nested: false
+- name: age
+  type: java.lang.Integer
+  nested: false
+- name: Address
+  type: java.util.List
+  nested: true
+  attributes:
+    - name: street
+      type: java.lang.String
+      nested: false
+    - name: city
+      type: java.lang.String
+      nested: false
+    - name: state
+      nested: false
+      type: java.lang.String
