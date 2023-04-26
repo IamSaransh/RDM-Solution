@@ -12,3 +12,4 @@
 - will have a underlying No_SQL db and a cache(Redis) sitting on top so that calls are blazing fast
 - The cache will be refreshed every x minutes
 - will have a get/post api for RDM `entityNameInConfig/AttributeNameInConfig`
+- Thing on hierarichical striucture, how to structre class (Full child data in parent) or just reference the child address and id)? graph db? 
